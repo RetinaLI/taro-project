@@ -1,0 +1,55 @@
+@import "../../../global.scss";
+
+  .month {
+    margin-top: rpx(10);
+    padding: rpx(9) rpx(9) rpx(4);
+    border-radius: rpx(10);
+    background: #f8f8f8;
+    margin-bottom: 20px;
+  }
+  .headbox {
+    margin-bottom: rpx(16);
+    .headdate {
+      flex: 0 0 14.2%;
+      text-align: center;
+      color: #999;
+      font-size: rpx(11);
+    }
+  }
+  .days {
+    flex-wrap: wrap;
+    .day {
+      position: relative;
+      flex: 0 0 14.2%;
+      text-align: center;
+      margin-bottom: rpx(10);
+      color: #333;
+      font-size: rpx(14);
+      line-height: rpx(30);
+      &.run {
+        &:before {
+          content: "";
+          position: absolute;
+          left: 50%;
+          width: rpx(30);
+          height: rpx(30);
+          border-radius: 50%;
+          background-color: rgba(68,117,253,0.1);
+          transform: translateX(-50%);
+        }
+        .txt {
+          position: relative;
+          z-index: 99;
+        }
+        &.selected {
+          &:before {
+            background-color: #4475FD;
+          }
+          .txt {
+            color: #fff;
+          }
+        }
+
+      }
+    }
+  }

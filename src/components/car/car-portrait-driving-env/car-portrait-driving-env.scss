@@ -1,0 +1,17 @@
+@import "../../../global.scss";
+
+.driving-env {
+  .h3 {
+    margin: rpx(20) 0 rpx(10) rpx(20);
+    font-size: rpx(14);
+    color: #333;
+  }
+  .part {
+    height: rpx(240);
+    padding: 0;
+    overflow: hidden;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

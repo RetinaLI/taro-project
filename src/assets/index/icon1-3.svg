@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>今日离线</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="小程序" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图部分" transform="translate(-572.000000, -26.000000)">
+            <g id="离线-copy-2" transform="translate(589.692868, 42.516809) rotate(-45.000000) translate(-589.692868, -42.516809) translate(580.192868, 30.516809)">
+                <path d="M8.22304096,19.3124964 C8.22304096,16.6126705 6.03439961,14.4240291 3.33457367,14.4240291" id="Path" stroke="#4475FD" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M13.2717045,19.3297263 C13.2717045,13.6414606 8.66045406,9.03021016 2.97218837,9.03021016" id="Path-Copy" stroke="#4475FD" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M18.6380819,19.5790197 C18.6380819,10.77674 11.5024244,3.64108248 2.70014474,3.64108248" id="Path-Copy-2" stroke="#4475FD" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M11.9835803,22.7000828 C11.9835803,23.7815286 11.0600891,24.6137975 9.96971629,24.6137975 C8.8793435,24.6137975 7.9558523,23.7815286 7.9558523,22.7000828 L7.9558523,1.05515474 C7.9558523,-0.0262910467 8.8793435,-0.858560007 9.96971629,-0.858560007 C11.0600891,-0.858560007 11.9835803,-0.0262910467 11.9835803,1.05515474 L11.9835803,22.7000828 Z" id="Path-2" stroke="#FFFFFF" stroke-width="2" fill="#4475FD" fill-rule="nonzero"></path>
+                <circle id="Oval-5" fill="#4475FD" opacity="0.5" cx="2.74167502" cy="20.2862058" r="2.22359843"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

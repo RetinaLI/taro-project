@@ -1,0 +1,6 @@
+
+<view wx:if="{{showCanvas}}">
+  <canvas class="ec-canvas {{className}}" canvas-id="{{ canvasId }}"
+  bindinit="init">
+  </canvas>
+</view>

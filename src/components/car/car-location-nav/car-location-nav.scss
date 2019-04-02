@@ -1,0 +1,35 @@
+@import "../../../global.scss";
+
+.location {
+  padding: 0 16px;
+  justify-content: space-between;
+  height: 70px;
+  line-height: 70px;
+  .t-box {
+    font-size: 24px;
+    color: #222;
+    .img {
+      vertical-align: middle;
+      &.icon_loca {
+        margin-top: -6px;
+        width: 26px;
+        height: 32px;
+      }
+      &.icon_arrow_right {
+        margin-left: 24px;
+        width: 16px;
+        height: 26px;
+      }
+    }
+    .t1 {
+      max-width: 500px;
+      margin-left: 16px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+    .t2 {
+      color: $c999;
+    }
+  }
+}

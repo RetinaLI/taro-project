@@ -1,0 +1,39 @@
+@import "../../global.scss";
+:host {
+  display: block;
+}
+.ico-image-item {
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  justify-content: center;
+  overflow: hidden;
+  .icon-box {
+    width: 80px;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    .img {
+      width: 60px;
+      height: 60px;
+    }
+  }
+  .txt-box {
+    flex: 1;
+    text-align: left;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    .t1 {
+      width: 100%;
+      font-weight: 600;
+      color: #333;
+      font-size: 26px;
+    }
+    .t2 {
+      width: 100%;
+      color: #222;
+      font-size: 20px;
+    }
+  }
+}

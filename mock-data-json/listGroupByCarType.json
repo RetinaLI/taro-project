@@ -1,0 +1,54 @@
+{
+  "list": [
+    {
+      "car_type_id": 50080,
+      "car_type_name": "EST",
+      "car_count": 22604,
+      "total_run_day": 22604,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 50081,
+      "car_type_name": "EST-Aadfadf",
+      "car_count": 262,
+      "total_run_day": 262,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 3006,
+      "car_type_name": "ETX",
+      "car_count": 46925,
+      "total_run_day": 46925,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 3005,
+      "car_type_name": "GTL",
+      "car_count": 38955,
+      "total_run_day": 38955,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 1262518,
+      "car_type_name": "TX",
+      "car_count": 1,
+      "total_run_day": 1,
+      "avg_run_time": 37747,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 3007,
+      "car_type_name": "VT",
+      "car_count": 3,
+      "total_run_day": 3,
+      "car_brand_name": "欧曼"
+    },
+    {
+      "car_type_id": 50160,
+      "car_type_name": "其他",
+      "car_count": 8781,
+      "total_run_day": 8781,
+      "car_brand_name": "欧曼"
+    }
+  ]
+}

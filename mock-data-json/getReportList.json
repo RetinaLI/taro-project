@@ -1,0 +1,690 @@
+{
+  "data": "",
+  "info": "",
+  "list": [
+    {
+      "company": {},
+      "created": "2019-02-18 08:34:16",
+      "id": 8565,
+      "modified": "2019-02-18 09:45:41",
+      "name": "欧曼车厂端大报告数据_201907",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/report\/terminal.html?data=%2Fupload%2Fsubscribe%2Fsas%2Freport%2Fterminal_data%2F50060_201907.json",
+      "rangeTitle": "2019年07周",
+      "startDate": "2019-02-11 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 621,
+        "name": "欧曼车厂端大报告数据"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-02-18 08:31:43",
+      "id": 8529,
+      "modified": "2019-02-18 09:45:04",
+      "name": "欧曼车联网周报_201907",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201907.json",
+      "rangeTitle": "2019年07周",
+      "startDate": "2019-02-11 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-02-11 08:33:37",
+      "id": 8432,
+      "modified": "2019-02-11 09:46:32",
+      "name": "欧曼车厂端大报告数据_201906",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/report\/terminal.html?data=%2Fupload%2Fsubscribe%2Fsas%2Freport%2Fterminal_data%2F50060_201906.json",
+      "rangeTitle": "2019年06周",
+      "startDate": "2019-02-04 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 621,
+        "name": "欧曼车厂端大报告数据"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-02-11 08:31:20",
+      "id": 8415,
+      "modified": "2019-02-11 09:47:05",
+      "name": "欧曼车联网周报_201906",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201906.json",
+      "rangeTitle": "2019年06周",
+      "startDate": "2019-02-04 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-02-04 08:34:05",
+      "id": 8356,
+      "modified": "2019-02-04 09:47:30",
+      "name": "欧曼车厂端大报告数据_201905",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/report\/terminal.html?data=%2Fupload%2Fsubscribe%2Fsas%2Freport%2Fterminal_data%2F50060_201905.json",
+      "rangeTitle": "2019年05周",
+      "startDate": "2019-01-28 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 621,
+        "name": "欧曼车厂端大报告数据"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-02-04 08:31:32",
+      "id": 8335,
+      "modified": "2019-02-04 09:45:33",
+      "name": "欧曼车联网周报_201905",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201905.json",
+      "rangeTitle": "2019年05周",
+      "startDate": "2019-01-28 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-01-29 10:32:54",
+      "id": 8229,
+      "modified": "2019-01-29 13:46:27",
+      "name": "欧曼车厂端大报告数据_201902",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/report\/terminal.html?data=%2Fupload%2Fsubscribe%2Fsas%2Freport%2Fterminal_data%2F50060_201902.json",
+      "rangeTitle": "2019年02周",
+      "startDate": "2019-01-07 00:00:00",
+      "status": 0,
+      "subscTemplate": {
+        "id": 621,
+        "name": "欧曼车厂端大报告数据"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-01-28 08:31:20",
+      "id": 8154,
+      "modified": "2019-01-28 09:45:00",
+      "name": "欧曼车联网周报_201904",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201904.json",
+      "rangeTitle": "2019年04周",
+      "startDate": "2019-01-21 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-01-21 08:31:36",
+      "id": 7997,
+      "modified": "2019-01-21 09:48:51",
+      "name": "欧曼车联网周报_201903",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201903.json",
+      "rangeTitle": "2019年03周",
+      "startDate": "2019-01-14 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-01-14 08:31:36",
+      "id": 7777,
+      "modified": "2019-01-29 10:40:20",
+      "name": "欧曼车联网周报_201902",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201902.json",
+      "rangeTitle": "2019年02周",
+      "startDate": "2019-01-07 00:00:00",
+      "status": 0,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2019-01-10 14:39:16",
+      "id": 7698,
+      "modified": "2019-01-10 14:39:16",
+      "name": "欧曼车联网周报_201901",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201901.json",
+      "rangeTitle": "2019年01周",
+      "startDate": "2018-12-31 00:00:00",
+      "status": 0,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-12-31 08:31:21",
+      "id": 7512,
+      "modified": "2018-12-31 09:45:19",
+      "name": "欧曼车联网周报_201852",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201852.json",
+      "rangeTitle": "2018年52周",
+      "startDate": "2018-12-24 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-12-24 08:32:05",
+      "id": 7452,
+      "modified": "2018-12-24 09:45:09",
+      "name": "欧曼车联网周报_201851",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201851.json",
+      "rangeTitle": "2018年51周",
+      "startDate": "2018-12-17 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-12-17 08:31:28",
+      "id": 7389,
+      "modified": "2018-12-17 09:46:41",
+      "name": "欧曼车联网周报_201850",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201850.json",
+      "rangeTitle": "2018年50周",
+      "startDate": "2018-12-10 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-12-10 08:31:02",
+      "id": 7287,
+      "modified": "2018-12-10 09:45:00",
+      "name": "欧曼车联网周报_201849",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201849.json",
+      "rangeTitle": "2018年49周",
+      "startDate": "2018-12-03 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-12-03 08:31:38",
+      "id": 7228,
+      "modified": "2018-12-03 09:45:42",
+      "name": "欧曼车联网周报_201848",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201848.json",
+      "rangeTitle": "2018年48周",
+      "startDate": "2018-11-26 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-11-26 08:31:49",
+      "id": 7149,
+      "modified": "2018-11-26 09:45:00",
+      "name": "欧曼车联网周报_201847",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201847.json",
+      "rangeTitle": "2018年47周",
+      "startDate": "2018-11-19 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-11-19 08:31:34",
+      "id": 7067,
+      "modified": "2019-01-11 08:51:10",
+      "name": "欧曼车联网周报_201846",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201846.json",
+      "rangeTitle": "2018年46周",
+      "startDate": "2018-11-12 00:00:00",
+      "status": 0,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-11-12 08:31:37",
+      "id": 6969,
+      "modified": "2018-11-12 09:46:10",
+      "name": "欧曼车联网周报_201845",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201845.json",
+      "rangeTitle": "2018年45周",
+      "startDate": "2018-11-05 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-11-05 08:31:25",
+      "id": 6927,
+      "modified": "2019-01-24 14:07:52",
+      "name": "欧曼车联网周报_201844",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201844.json",
+      "rangeTitle": "2018年44周",
+      "startDate": "2018-10-29 00:00:00",
+      "status": 0,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-10-29 08:31:26",
+      "id": 6769,
+      "modified": "2018-10-29 09:45:19",
+      "name": "欧曼车联网周报_201843",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201843.json",
+      "rangeTitle": "2018年43周",
+      "startDate": "2018-10-22 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-10-22 08:31:28",
+      "id": 6727,
+      "modified": "2018-10-22 09:45:09",
+      "name": "欧曼车联网周报_201842",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201842.json",
+      "rangeTitle": "2018年42周",
+      "startDate": "2018-10-15 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-10-15 08:32:02",
+      "id": 6645,
+      "modified": "2018-10-15 09:46:00",
+      "name": "欧曼车联网周报_201841",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201841.json",
+      "rangeTitle": "2018年41周",
+      "startDate": "2018-10-08 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-10-08 08:32:44",
+      "id": 6408,
+      "modified": "2018-10-08 09:45:00",
+      "name": "欧曼车联网周报_201840",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201840.json",
+      "rangeTitle": "2018年40周",
+      "startDate": "2018-10-01 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-10-01 08:34:53",
+      "id": 6347,
+      "modified": "2018-10-01 09:45:00",
+      "name": "欧曼车联网周报_201839",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201839.json",
+      "rangeTitle": "2018年39周",
+      "startDate": "2018-09-24 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-09-24 08:32:13",
+      "id": 6227,
+      "modified": "2018-09-24 09:45:00",
+      "name": "欧曼车联网周报_201838",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201838.json",
+      "rangeTitle": "2018年38周",
+      "startDate": "2018-09-17 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-09-17 08:32:07",
+      "id": 6147,
+      "modified": "2018-09-17 09:45:47",
+      "name": "欧曼车联网周报_201837",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201837.json",
+      "rangeTitle": "2018年37周",
+      "startDate": "2018-09-10 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-09-10 08:31:52",
+      "id": 6124,
+      "modified": "2018-09-10 09:45:00",
+      "name": "欧曼车联网周报_201836",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201836.json",
+      "rangeTitle": "2018年36周",
+      "startDate": "2018-09-03 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-09-03 08:31:33",
+      "id": 6086,
+      "modified": "2018-09-03 09:45:00",
+      "name": "欧曼车联网周报_201835",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201835.json",
+      "rangeTitle": "2018年35周",
+      "startDate": "2018-08-27 00:00:00",
+      "status": 1,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-08-27 08:31:36",
+      "id": 5984,
+      "modified": "2018-08-27 09:45:00",
+      "name": "欧曼车联网周报_201834",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201834.json",
+      "rangeTitle": "2018年34周",
+      "startDate": "2018-08-20 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-08-20 08:31:57",
+      "id": 5927,
+      "modified": "2018-08-20 09:45:00",
+      "name": "欧曼车联网周报_201833",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201833.json",
+      "rangeTitle": "2018年33周",
+      "startDate": "2018-08-13 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-08-13 08:32:03",
+      "id": 5867,
+      "modified": "2018-08-13 09:45:47",
+      "name": "欧曼车联网周报_201832",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201832.json",
+      "rangeTitle": "2018年32周",
+      "startDate": "2018-08-06 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-08-06 08:32:19",
+      "id": 5827,
+      "modified": "2018-08-06 09:45:00",
+      "name": "欧曼车联网周报_201831",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201831.json",
+      "rangeTitle": "2018年31周",
+      "startDate": "2018-07-30 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-07-30 08:32:06",
+      "id": 5707,
+      "modified": "2018-07-30 09:45:00",
+      "name": "欧曼车联网周报_201830",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201830.json",
+      "rangeTitle": "2018年30周",
+      "startDate": "2018-07-23 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-07-23 08:32:02",
+      "id": 5646,
+      "modified": "2018-07-23 09:45:00",
+      "name": "欧曼车联网周报_201829",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201829.json",
+      "rangeTitle": "2018年29周",
+      "startDate": "2018-07-16 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-07-16 08:31:48",
+      "id": 5587,
+      "modified": "2018-07-16 09:45:47",
+      "name": "欧曼车联网周报_201828",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201828.json",
+      "rangeTitle": "2018年28周",
+      "startDate": "2018-07-09 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-07-09 08:31:54",
+      "id": 5527,
+      "modified": "2018-07-09 09:45:46",
+      "name": "欧曼车联网周报_201827",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201827.json",
+      "rangeTitle": "2018年27周",
+      "startDate": "2018-07-02 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-07-02 08:31:54",
+      "id": 5487,
+      "modified": "2018-07-02 09:45:00",
+      "name": "欧曼车联网周报_201826",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201826.json",
+      "rangeTitle": "2018年26周",
+      "startDate": "2018-06-25 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-06-25 08:31:51",
+      "id": 5384,
+      "modified": "2018-06-25 09:45:00",
+      "name": "欧曼车联网周报_201825",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201825.json",
+      "rangeTitle": "2018年25周",
+      "startDate": "2018-06-18 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    },
+    {
+      "company": {},
+      "created": "2018-06-18 08:31:52",
+      "id": 5342,
+      "modified": "2018-06-18 09:45:00",
+      "name": "欧曼车联网周报_201824",
+      "new": false,
+      "note": "",
+      "path": "\/sas\/week_report_by_brand.html?data=%2Fupload%2Fsubscribe%2Fsas%2Fweek_report_by_brand_data%2F50060_201824.json",
+      "rangeTitle": "2018年24周",
+      "startDate": "2018-06-11 00:00:00",
+      "status": 2,
+      "subscTemplate": {
+        "id": 101,
+        "name": "欧曼车联网周报"
+      }
+    }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 40,
+  "url": ""
+}

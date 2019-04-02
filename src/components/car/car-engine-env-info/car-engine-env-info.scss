@@ -1,0 +1,26 @@
+@import "../../../global.scss";
+
+.list-item {
+  border-bottom: 2px solid #eee;
+  height: 130px !important;
+  .img-box {
+    width: 92px !important;
+  }
+  .img {
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .label {
+    font-weight: normal !important;
+    font-size: 24px !important;
+  }
+}
+
+.content {
+  background-color: rgba(68, 117, 253, 0.103);
+  color: #4475FD !important;
+  text-align: center;
+  border-radius:16px;
+  padding:4px 14px;
+  font-size: 24px;
+}

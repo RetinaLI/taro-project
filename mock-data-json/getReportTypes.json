@@ -1,0 +1,40 @@
+{
+  "data": "",
+  "info": "",
+  "list": "",
+  "mapList": [
+    {
+      "name": "运营",
+      "range": [
+        2,
+        1
+      ],
+      "category": 1
+    },
+    {
+      "name": "销售",
+      "range": [
+        2
+      ],
+      "category": 5
+    },
+    {
+      "name": "质量",
+      "range": [
+        2
+      ],
+      "category": 10
+    },
+    {
+      "name": "用户",
+      "range": [
+        2
+      ],
+      "category": 12
+    }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 0,
+  "url": ""
+}

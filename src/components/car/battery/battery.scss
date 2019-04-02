@@ -1,0 +1,42 @@
+@import "../../../global.scss";
+
+.battery {
+  .img {
+    margin-top: 8px;
+    &.icon_arrow_right {
+      margin-left: 24px;
+      width: 16px !important;
+      height: 26px !important;
+    }
+  }
+  .voltage {
+    &.part-title {
+      margin-top: 44px;
+    }
+  }
+  .list-item {
+    border-bottom: 2px solid #eee;
+    height: 130px !important;
+    .img-box {
+      width: 92px !important;
+    }
+    .img {
+      width: 50px !important;
+      height: 50px !important;
+    }
+    .label {
+      font-weight: normal !important;
+      font-size: 24px !important;
+    }
+  }
+
+  .content {
+    background-color: rgba(68, 117, 253, 0.103);
+    color: #4475FD !important;
+    text-align: center;
+    border-radius:16px;
+    padding:4px 14px;
+    font-size: 24px;
+  }
+}
+

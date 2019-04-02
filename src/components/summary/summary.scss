@@ -1,0 +1,30 @@
+@import "../../global.scss";
+
+.summary-content {
+  li {
+    display: inline-block;
+    padding: 28px 0;
+    width: 33%;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+    &:nth-last-child(3),&:nth-last-child(2),&:last-child {
+      border-bottom: none;
+    }
+    .summary-img {
+      margin-bottom: 6px;
+      width: 72px;
+      height: 72px;
+    }
+    .summary-num {
+      color: #333;
+      font-size: 32px;
+      line-height: 38px;
+      margin-bottom: 4px;
+    }
+    .summary-title {
+      color: $c999;
+      font-size: 24px;
+      line-height: 34px;
+    }
+  }
+}

@@ -1,0 +1,65 @@
+@import "../../../global.scss";
+
+.part.meter {
+  padding: 0 20px;
+}
+
+.list-item {
+  border: 2px solid #eee;
+  border-radius: 10px;
+  height: 100px;
+}
+
+.md-items {
+  margin-top: 30px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .item {
+    $h: 52px;
+    margin-bottom: 20px;
+    width: 210px;
+    height: $h;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+
+    .icon-box {
+      width: 68px;
+      height: $h;
+      text-align: center;
+      .img {
+        display: initial;
+        width: 50px;
+        height: 52px;
+        vertical-align: middle;
+      }
+    }
+    .txt-box, .txt-box-red {
+      height: $h;
+      line-height: $h;
+      max-width: 140px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      font-size: 18px;
+      color: #999;
+    }
+
+    .txt-box-red {
+      color: #ff4646;
+    }
+  }
+
+  .hide {
+    display: none;
+  }
+  .bg-red {
+    border: none;
+    background-color: #ffe3e3;
+    border-radius: 10px !important;
+  }
+  .bg-gray {
+    border: none;
+    background-color: #f8f8f8;
+    border-radius: 10px !important;
+  }
+}

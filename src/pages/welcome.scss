@@ -1,0 +1,60 @@
+.container {
+  view.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 104px;
+    image {
+      width: 144px;
+      height: 144px;
+    }
+
+    text {
+      margin-top: 20px;
+      font-size: 48px;
+      color: #222;
+    }
+  }
+
+  view.weixin-login {
+    margin: 79px 46px 0;
+    .split-line {
+      display: block;
+      height: 2px;
+      width: 100%;
+      background-color: #eee;
+    }
+
+    .weixin-info {
+      margin: 62px 0 98px;
+      p {
+        display: block;
+        width: 100%;
+        font-size: 32px;
+        color: #222;
+        margin-bottom: 18px;
+      }
+
+      ul {
+        li {
+          display: flex;
+          flex-direction: rows;
+          align-items: center;
+          i {
+            display: block;
+            width: 12px;
+            height: 12px;
+            background-color: #999;
+            border-radius: 50%;
+          }
+          text {
+            margin-left: 22px;
+            font-size: 28px;
+            color: #999;
+          }
+        }
+      }
+    }
+  }
+}

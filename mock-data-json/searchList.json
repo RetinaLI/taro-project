@@ -1,0 +1,82 @@
+{
+  "carInfoSales": "",
+  "data": "",
+  "info": "",
+  "list": [],
+  "mapList": [
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEBXGL608326",
+      "lpn": "辽AM2345",
+      "did": "A64838044832",
+      "carId": 177100
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEB2HR007345",
+      "lpn": "湘N0J319",
+      "did": "A64828972930",
+      "carId": 286600
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEB8HT009345",
+      "lpn": "豫NA7672",
+      "did": "A64838006154",
+      "carId": 295700
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PTC6HL603458",
+      "lpn": "豫U78966",
+      "did": "A64703734501",
+      "carId": 317400
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEBXHR016715",
+      "lpn": "皖SA7345",
+      "did": "A64621479210",
+      "carId": 830800
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDV6PECXHR019345",
+      "lpn": "浙A6S607",
+      "did": "A64838054537",
+      "carId": 844800
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEB5HR020168",
+      "lpn": "浙A34532",
+      "did": "A64828894390",
+      "carId": 849000
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDV7PTC3HH028345",
+      "lpn": "晋E28589",
+      "did": "A64762064585",
+      "carId": 867200
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDS6PEB5HR026679",
+      "lpn": "鲁AM9345",
+      "did": "A64762066439",
+      "carId": 880400
+    },
+    {
+      "protocol": "ZKC02",
+      "framenum": "LRDV7PEC2JR009220",
+      "lpn": "苏G12345",
+      "did": "A64858644030",
+      "carId": 947700
+    }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 791,
+  "url": ""
+}

@@ -1,0 +1,55 @@
+.battery-box {
+  .title {
+    display: flex;
+    line-height: 50px;
+    .title-name {
+      flex: 1;
+      font-weight: bold;
+      font-size: 36px;
+      color: #333;
+    }
+    .num {
+      font-size: 32px;
+      color: #666;
+    }
+  }
+  .list-box {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    .item {
+      display: flex;
+      padding: 24px 16px 24px 0;
+      border-bottom: 2px solid #eee;
+      width: 300px;
+      box-sizing: border-box;
+      .name:first-child {
+        flex: 1;
+        color: #333;
+        font-size: 28px;
+        line-height: 32px;
+      }
+      .item-num {
+        width: 80px;
+        height: 32px;
+        color: #4475FD;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: center;
+        background-color: rgba(68, 117, 253, 0.1);
+        border-radius: 40px;
+        &.max {
+          background-color: rgba(255, 70, 70, 0.1);
+          color: #FF4646;
+        }
+        &.min {
+          background-color: rgba(0, 0, 0, 0.05);
+          color: #666;
+        }
+      }
+    }
+  }
+}

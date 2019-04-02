@@ -1,0 +1,321 @@
+$normal: #4475FD;
+$normal-bg: rgba(68, 117, 253, 0.103);
+
+$press: #3D69E4;
+$c999: #999;
+$font-size: 12px;
+
+@function rpx($px) {
+  @return $px * 2 * 1px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  .flex-column {
+    flex-direction: column;
+  }
+}
+.breakword {
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.x-text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fl {
+  float:left;
+}
+.fr {
+  float: right;
+}
+.clearfix {
+  &::before, &::after {
+    content: " ";
+    display: table;
+  }
+  &::after {
+    clear: both;
+  }
+}
+.m-top-10 {
+  margin-top: 10px;
+}
+
+.container {
+  height: 100%;
+  min-height: 100vh;
+  background-color: #f8f8f8;
+}
+
+img {
+  vertical-align: top;
+}
+
+.part {
+  margin: 0 16px 20px;
+  padding: 22px 40px 0;
+  width: auto;
+  background-color: #fff;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .07);
+  border-radius: 20px;
+  .part-title {
+    font-size: 28px;
+    color: #333;
+    line-height: 40px;
+  }
+  .part-content {
+    margin-top: 20px;
+  }
+}
+
+// 车辆详情——实时
+.part-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  .item {
+    $h: 130px;
+    width: 280px;
+    height: $h;
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+    .icon-box {
+      width: 92px;
+      line-height: $h;
+      height: $h;
+      text-align: center;
+      .img {
+        width: 50px;
+        height: 50px;
+        vertical-align: middle;
+      }
+    }
+    .txt-box {
+      margin-top: 40px;
+      height: 70px;
+      line-height: 1;
+      text-align: left;
+      .t1 {
+        margin-bottom: 6px;
+        width: 100%;
+        color: #333;
+        font-size: 24px;
+      }
+      .t2 {
+        display: inline;
+        padding: 4px 14px;
+        color: $normal;
+        font-size: 16px;
+        background-color: $normal-bg;
+        border-radius: 16px;
+        text-align: left;
+        &.aa {
+          font-size: 24px;
+          &.off {
+            background-color: #F2F2F2;
+            color: #999;
+          }
+        }
+      }
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.battery, .drive-motor {
+  .title {
+    font-size: 36px;
+    color: #333;
+    line-height: 50px;
+    .text {
+      flex: 1;
+      &.num {
+        text-align: right;
+        color: #666;
+        font-size: 32px;
+        overflow: hidden;
+      }
+    }
+  }
+  .part-title {
+    font-size: 28px;
+    color: #333;
+    line-height: 40px;
+    margin-top: 26px;
+  }
+}
+
+// 实时结束
+
+.gl-btn {
+  border-radius: 30px;
+  color: #fff;
+  font-size: .16rem;
+  text-align: center;
+  background-color: $normal;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .8);
+  z-index: 2;
+  font-size: $font-size;
+  & > view {
+    background-color: white;
+    position: absolute;
+    width: 90%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+
+    .btns {
+      border-top: 2px solid rgb(238, 238, 238);
+      width: 100%;
+      height: 80px;
+      display: flex;
+      flex-direction: rows;
+
+      label {
+        font-size: $font-size;
+        flex: 1;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 2.5em;
+        color: rgb(0, 153, 255);
+      }
+    }
+  }
+}
+
+
+.btn-blue {
+  background-color: #4475FD;
+  border-radius: 10px;
+  color: white;
+  font-size: 36px;
+  padding: 26px 0;
+  line-height: 1;
+  position: relative;
+
+  &:before {
+    content: '';
+    position: absolute;
+    display: none;
+    background-color: rgba(0,0,0,.1);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  &:active:before {
+    display: block;
+  }
+}
+
+
+/*****  foton-ui  *******/
+.foton-ui {
+  &.plus {
+    position: relative;
+    width: 32px;
+    height: 32px;
+
+    &:before {
+      content: '';
+      position: absolute;
+      border-top: 1px solid #C9C9C9;
+      width: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%) rotate(0deg);
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      border-top: 1px solid #C9C9C9;
+      width: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%) rotate(90deg);
+    }
+  }
+  &.close {
+    position: relative;
+    width: 32px;
+    height: 32px;
+
+    &:before {
+      content: '';
+      position: absolute;
+      border-top: 1px solid #C9C9C9;
+      width: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%) rotate(-45deg);
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      border-top: 1px solid #C9C9C9;
+      width: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%) rotate(45deg);
+    }
+  }
+  &.arr-icon {
+    display: inline-block;
+    opacity: .4;
+    vertical-align: middle;
+    width: 26px;
+    height: 26px;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    &.blue {
+      width: 10px;
+      height: 10px;
+      border-top-color: #4475FD;
+      border-right-color: #4475FD;
+      opacity: 1;
+    }
+    &.left {
+      transform: translateX(6px) rotate(225deg);
+    }
+    &.right {
+      transform: translateX(-6px) rotate(45deg);
+    }
+    &.opacity2 {
+      opacity: .2;
+    }
+  }
+}
+
+
+/* weui */
+// .weui-cells:before {
+//   border-top: none;
+// }
+// .weui-cells:after {
+//   border-bottom: none;
+// }
+// .weui-cell:before {
+//   left: 0
+// }

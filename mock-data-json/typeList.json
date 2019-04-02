@@ -1,0 +1,47 @@
+{
+  "data": "",
+  "info": "",
+  "list": [
+    {
+      "value": 50080,
+      "key": "EST"
+    },
+    {
+      "value": 50081,
+      "key": "EST-A"
+    },
+    {
+      "value": 3006,
+      "key": "ETX"
+    },
+    {
+      "value": 3005,
+      "key": "GTL"
+    },
+    {
+      "value": 1262518,
+      "key": "TX"
+    },
+    {
+      "value": 3007,
+      "key": "VT"
+    },
+    {
+      "value": 50160,
+      "key": "其他"
+    },
+    {
+      "value": 3008,
+      "key": "欧曼专用类"
+    },
+    {
+      "value": 50161,
+      "key": "特殊订单"
+    }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 0,
+  "treeNodes": "",
+  "url": ""
+}

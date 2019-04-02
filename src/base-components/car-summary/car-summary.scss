@@ -1,0 +1,22 @@
+@import "../../global.scss";
+
+
+.list-item {
+  background-color: #F8F8F8;
+  border-radius:20rpx;
+  height: 130px !important;
+  margin-bottom: 20px;
+  .label {
+    font-weight: normal !important;
+    font-size: 26px !important;
+  }
+  .img-box {
+    margin: 0 18px;
+  }
+}
+
+.content {
+  color: #4475FD !important;
+  font-size: 32px !important;
+  font-weight: 600;
+}

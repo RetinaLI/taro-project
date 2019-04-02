@@ -1,0 +1,25 @@
+@import "../../global.scss";
+:host {
+  display: block;
+  width: 100%;
+}
+
+.ico-image-list {
+  width: 100%;
+  justify-content:space-between;
+  flex-wrap: wrap;
+}
+
+.item-count {
+  &.three {
+    .item {
+      flex: 0 1 31%;
+    }
+  }
+
+  &.two {
+    .item {
+      flex: 0 1 48%;
+    }
+  }
+}

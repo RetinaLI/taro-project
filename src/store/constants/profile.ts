@@ -1,0 +1,1 @@
+export const ASYNC_PROFILE_INFO = 'ASYNC_PROFILE_INFO'

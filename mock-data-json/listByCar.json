@@ -1,0 +1,20 @@
+{
+  "data": "",
+  "info": "",
+  "list": "",
+  "map": {
+    "warrantyPeriod": "三包期外",
+    "nightDriveType": "日行者",
+    "operationRateType": "劳逸结合",
+    "citiesProportion": 0.0,
+    "elevationType": "平原行驶",
+    "runtimeType": "初出茅庐",
+    "drivingBehavior": "不及格驾驶",
+    "fuelConsumptionType": "节油达人",
+    "mileageType": "走马观花"
+  },
+  "success": true,
+  "texts": "",
+  "totalCount": 9,
+  "url": ""
+}

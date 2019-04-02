@@ -1,0 +1,22 @@
+{
+  "data": "",
+  "info": "",
+  "list": [
+      {
+          "value": 3001,
+          "key": "欧曼"
+      },
+      {
+          "value": 50042,
+          "key": "服务车"
+      },
+      {
+          "value": 57662,
+          "key": "工程车"
+      }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 0,
+  "url": ""
+}

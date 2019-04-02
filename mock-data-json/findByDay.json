@@ -1,0 +1,1033 @@
+{
+  "data": "",
+  "drivingBehaviorVoList": [
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 08:25:04",
+      "startLatitude": 40.101953,
+      "startLongitude": 118.59003,
+      "startTime": "2019-02-07 07:55:11",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101435,
+      "endLongitude": 118.59393,
+      "endTime": "2019-02-07 09:10:50",
+      "startLatitude": 40.100693,
+      "startLongitude": 118.593263,
+      "startTime": "2019-02-07 09:10:35",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 09:49:25",
+      "startLatitude": 40.102066,
+      "startLongitude": 118.590205,
+      "startTime": "2019-02-07 09:16:28",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 10:45:03",
+      "startLatitude": 40.088476,
+      "startLongitude": 118.603443,
+      "startTime": "2019-02-07 10:36:32",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 13:09:36",
+      "startLatitude": 40.10036,
+      "startLongitude": 118.592965,
+      "startTime": "2019-02-07 13:09:30",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 13:09:40",
+      "startLatitude": 40.100628,
+      "startLongitude": 118.593265,
+      "startTime": "2019-02-07 13:09:37",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.10223,
+      "endLongitude": 118.593873,
+      "endTime": "2019-02-07 13:10:01",
+      "startLatitude": 40.10106,
+      "startLongitude": 118.593788,
+      "startTime": "2019-02-07 13:09:46",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102848,
+      "endLongitude": 118.594158,
+      "endTime": "2019-02-07 13:10:12",
+      "startLatitude": 40.102283,
+      "startLongitude": 118.593893,
+      "startTime": "2019-02-07 13:10:02",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101606,
+      "endLongitude": 118.591716,
+      "endTime": "2019-02-07 13:11:06",
+      "startLatitude": 40.102178,
+      "startLongitude": 118.592615,
+      "startTime": "2019-02-07 13:10:52",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101136,
+      "endLongitude": 118.59105,
+      "endTime": "2019-02-07 13:11:17",
+      "startLatitude": 40.101571,
+      "startLongitude": 118.591663,
+      "startTime": "2019-02-07 13:11:07",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 13:21:50",
+      "startLatitude": 40.102148,
+      "startLongitude": 118.590661,
+      "startTime": "2019-02-07 13:13:57",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 13:28:33",
+      "startLatitude": 40.102148,
+      "startLongitude": 118.590661,
+      "startTime": "2019-02-07 13:22:15",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 13:52:19",
+      "startLatitude": 40.102068,
+      "startLongitude": 118.590445,
+      "startTime": "2019-02-07 13:29:52",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 14:01:10",
+      "startLatitude": 40.101568,
+      "startLongitude": 118.589543,
+      "startTime": "2019-02-07 13:55:00",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.095016,
+      "endLongitude": 118.596771,
+      "endTime": "2019-02-07 14:24:48",
+      "startLatitude": 40.095905,
+      "startLongitude": 118.595128,
+      "startTime": "2019-02-07 14:24:19",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 14:26:52",
+      "startLatitude": 40.092995,
+      "startLongitude": 118.600108,
+      "startTime": "2019-02-07 14:26:29",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 14:39:13",
+      "startLatitude": 40.088688,
+      "startLongitude": 118.603183,
+      "startTime": "2019-02-07 14:33:22",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 14:46:00",
+      "startLatitude": 40.089618,
+      "startLongitude": 118.602183,
+      "startTime": "2019-02-07 14:45:56",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102938,
+      "endLongitude": 118.594131,
+      "endTime": "2019-02-07 14:50:00",
+      "startLatitude": 40.100823,
+      "startLongitude": 118.593325,
+      "startTime": "2019-02-07 14:49:34",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101571,
+      "endLongitude": 118.591965,
+      "endTime": "2019-02-07 14:50:37",
+      "startLatitude": 40.103083,
+      "startLongitude": 118.593213,
+      "startTime": "2019-02-07 14:50:16",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 14:50:25",
+      "startLatitude": 40.103083,
+      "startLongitude": 118.593213,
+      "startTime": "2019-02-07 14:50:16",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 15:00:32",
+      "startLatitude": 40.102395,
+      "startLongitude": 118.58881,
+      "startTime": "2019-02-07 14:54:51",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 15:28:11",
+      "startLatitude": 40.09561,
+      "startLongitude": 118.59567,
+      "startTime": "2019-02-07 15:28:07",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101123,
+      "endLongitude": 118.59373,
+      "endTime": "2019-02-07 15:31:13",
+      "startLatitude": 40.100393,
+      "startLongitude": 118.593003,
+      "startTime": "2019-02-07 15:30:59",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 15:42:00",
+      "startLatitude": 40.102015,
+      "startLongitude": 118.590145,
+      "startTime": "2019-02-07 15:35:41",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 15:49:42",
+      "startLatitude": 40.101956,
+      "startLongitude": 118.58991,
+      "startTime": "2019-02-07 15:44:39",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 16:20:12",
+      "startLatitude": 40.089616,
+      "startLongitude": 118.60224,
+      "startTime": "2019-02-07 16:20:08",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102905,
+      "endLongitude": 118.594121,
+      "endTime": "2019-02-07 16:25:22",
+      "startLatitude": 40.1001,
+      "startLongitude": 118.592555,
+      "startTime": "2019-02-07 16:24:37",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.103346,
+      "endLongitude": 118.593478,
+      "endTime": "2019-02-07 16:25:33",
+      "startLatitude": 40.102905,
+      "startLongitude": 118.594121,
+      "startTime": "2019-02-07 16:25:23",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.10148,
+      "endLongitude": 118.590538,
+      "endTime": "2019-02-07 16:27:21",
+      "startLatitude": 40.101841,
+      "startLongitude": 118.591285,
+      "startTime": "2019-02-07 16:27:11",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 16:38:41",
+      "startLatitude": 40.102043,
+      "startLongitude": 118.590041,
+      "startTime": "2019-02-07 16:33:03",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 17:09:06",
+      "startLatitude": 40.094653,
+      "startLongitude": 118.598925,
+      "startTime": "2019-02-07 17:08:31",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:41:51",
+      "startLatitude": 40.100065,
+      "startLongitude": 118.59207,
+      "startTime": "2019-02-07 19:41:49",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:42:08",
+      "startLatitude": 40.100425,
+      "startLongitude": 118.593008,
+      "startTime": "2019-02-07 19:42:04",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.10289,
+      "endLongitude": 118.59415,
+      "endTime": "2019-02-07 19:42:54",
+      "startLatitude": 40.10074,
+      "startLongitude": 118.593351,
+      "startTime": "2019-02-07 19:42:11",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:42:43",
+      "startLatitude": 40.102105,
+      "startLongitude": 118.593828,
+      "startTime": "2019-02-07 19:42:40",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:43:04",
+      "startLatitude": 40.10289,
+      "startLongitude": 118.59415,
+      "startTime": "2019-02-07 19:42:54",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.10336,
+      "endLongitude": 118.59336,
+      "endTime": "2019-02-07 19:43:07",
+      "startLatitude": 40.102943,
+      "startLongitude": 118.594153,
+      "startTime": "2019-02-07 19:42:55",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:43:17",
+      "startLatitude": 40.10313,
+      "startLongitude": 118.593255,
+      "startTime": "2019-02-07 19:43:12",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102238,
+      "endLongitude": 118.593078,
+      "endTime": "2019-02-07 19:43:27",
+      "startLatitude": 40.102916,
+      "startLongitude": 118.593385,
+      "startTime": "2019-02-07 19:43:15",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:43:27",
+      "startLatitude": 40.10252,
+      "startLongitude": 118.59328,
+      "startTime": "2019-02-07 19:43:22",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101751,
+      "endLongitude": 118.592271,
+      "endTime": "2019-02-07 19:43:41",
+      "startLatitude": 40.10214,
+      "startLongitude": 118.592963,
+      "startTime": "2019-02-07 19:43:29",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101131,
+      "endLongitude": 118.591021,
+      "endTime": "2019-02-07 19:44:00",
+      "startLatitude": 40.101718,
+      "startLongitude": 118.592206,
+      "startTime": "2019-02-07 19:43:41",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 19:43:56",
+      "startLatitude": 40.101455,
+      "startLongitude": 118.591711,
+      "startTime": "2019-02-07 19:43:49",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101503,
+      "endLongitude": 118.590511,
+      "endTime": "2019-02-07 19:44:53",
+      "startLatitude": 40.101831,
+      "startLongitude": 118.59122,
+      "startTime": "2019-02-07 19:44:43",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 20:01:34",
+      "startLatitude": 40.10156,
+      "startLongitude": 118.589685,
+      "startTime": "2019-02-07 19:55:54",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.095678,
+      "endLongitude": 118.595413,
+      "endTime": "2019-02-07 20:27:06",
+      "startLatitude": 40.096023,
+      "startLongitude": 118.594783,
+      "startTime": "2019-02-07 20:26:55",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.095093,
+      "endLongitude": 118.596455,
+      "endTime": "2019-02-07 20:27:25",
+      "startLatitude": 40.095606,
+      "startLongitude": 118.595526,
+      "startTime": "2019-02-07 20:27:08",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 20:32:48",
+      "startLatitude": 40.092766,
+      "startLongitude": 118.600156,
+      "startTime": "2019-02-07 20:32:44",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 20:37:48",
+      "startLatitude": 40.089713,
+      "startLongitude": 118.60193,
+      "startTime": "2019-02-07 20:37:45",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101085,
+      "endLongitude": 118.590883,
+      "endTime": "2019-02-07 20:47:51",
+      "startLatitude": 40.101548,
+      "startLongitude": 118.591745,
+      "startTime": "2019-02-07 20:47:35",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 21:03:49",
+      "startLatitude": 40.101668,
+      "startLongitude": 118.589606,
+      "startTime": "2019-02-07 20:58:05",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.095395,
+      "endLongitude": 118.596596,
+      "endTime": "2019-02-07 21:31:48",
+      "startLatitude": 40.095778,
+      "startLongitude": 118.595613,
+      "startTime": "2019-02-07 21:31:35",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.095005,
+      "endLongitude": 118.59771,
+      "endTime": "2019-02-07 21:32:01",
+      "startLatitude": 40.095376,
+      "startLongitude": 118.596683,
+      "startTime": "2019-02-07 21:31:49",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 21:39:36",
+      "startLatitude": 40.09465,
+      "startLongitude": 118.598921,
+      "startTime": "2019-02-07 21:39:23",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.103348,
+      "endLongitude": 118.59325,
+      "endTime": "2019-02-07 21:42:45",
+      "startLatitude": 40.100325,
+      "startLongitude": 118.592763,
+      "startTime": "2019-02-07 21:41:50",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102325,
+      "endLongitude": 118.593013,
+      "endTime": "2019-02-07 21:43:01",
+      "startLatitude": 40.103018,
+      "startLongitude": 118.593288,
+      "startTime": "2019-02-07 21:42:50",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.101838,
+      "endLongitude": 118.592183,
+      "endTime": "2019-02-07 21:43:13",
+      "startLatitude": 40.102271,
+      "startLongitude": 118.592956,
+      "startTime": "2019-02-07 21:43:02",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 21:54:12",
+      "startLatitude": 40.10212,
+      "startLongitude": 118.58991,
+      "startTime": "2019-02-07 21:46:43",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102078,
+      "endLongitude": 118.59382,
+      "endTime": "2019-02-07 22:30:17",
+      "startLatitude": 40.100091,
+      "startLongitude": 118.592228,
+      "startTime": "2019-02-07 22:29:40",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102811,
+      "endLongitude": 118.594136,
+      "endTime": "2019-02-07 22:30:30",
+      "startLatitude": 40.102078,
+      "startLongitude": 118.59382,
+      "startTime": "2019-02-07 22:30:17",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        1,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 22:42:31",
+      "startLatitude": 40.10212,
+      "startLongitude": 118.589966,
+      "startTime": "2019-02-07 22:36:35",
+      "title": "过长怠速",
+      "type": "EXCEED_IDLE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 23:12:46",
+      "startLatitude": 40.091265,
+      "startLongitude": 118.600323,
+      "startTime": "2019-02-07 23:12:40",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 23:13:36",
+      "startLatitude": 40.094656,
+      "startLongitude": 118.59896,
+      "startTime": "2019-02-07 23:13:24",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        3,
+        10
+      ],
+      "endLatitude": "",
+      "endLongitude": "",
+      "endTime": "2019-02-07 23:13:48",
+      "startLatitude": 40.095053,
+      "startLongitude": 118.596805,
+      "startTime": "2019-02-07 23:13:43",
+      "title": "超转行驶",
+      "type": "OVER_TURN_DRIVE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.100756,
+      "endLongitude": 118.59344,
+      "endTime": "2019-02-07 23:15:56",
+      "startLatitude": 40.100093,
+      "startLongitude": 118.592495,
+      "startTime": "2019-02-07 23:15:42",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.102835,
+      "endLongitude": 118.594205,
+      "endTime": "2019-02-07 23:16:22",
+      "startLatitude": 40.101561,
+      "startLongitude": 118.593958,
+      "startTime": "2019-02-07 23:16:07",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    },
+    {
+      "count": 1,
+      "deduction": [
+        2,
+        10
+      ],
+      "endLatitude": 40.10115,
+      "endLongitude": 118.590985,
+      "endTime": "2019-02-07 23:17:16",
+      "startLatitude": 40.10169,
+      "startLongitude": 118.591888,
+      "startTime": "2019-02-07 23:17:04",
+      "title": "长时间刹车",
+      "type": "LONG_BRAKE"
+    }
+  ],
+  "info": "",
+  "list": "",
+  "map": {},
+  "mapList": [],
+  "success": true,
+  "texts": "",
+  "totalCount": 68,
+  "url": ""
+}

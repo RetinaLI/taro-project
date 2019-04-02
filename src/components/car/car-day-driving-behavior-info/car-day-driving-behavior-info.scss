@@ -1,0 +1,127 @@
+@import "../../../global.scss";
+
+.day-run {
+  background-color: transparent;
+  padding: 0;
+  box-shadow: none;
+}
+
+.day-run-title {
+  justify-content: space-between;
+  padding-left: rpx(20);
+  margin-bottom: rpx(6);
+  & > .txt-title {
+    font-size: rpx(14);
+    color: #333;
+    line-height: rpx(20);
+  }
+  .day-run-btn {
+    justify-content: center;
+    width: rpx(86);
+    height: rpx(26);
+    border: 1px solid #4475FD;
+    border-radius: rpx(13);
+    font-size: rpx(13);
+    display: flex;
+    .btn-txt {
+      color: #4475FD;
+      margin-right: rpx(7);
+    }
+  }
+}
+.day-map {
+  box-shadow: 0 rpx(2) rpx(5) 0 rgba(0, 0, 0, 0.07);
+  background: #fff;
+  border-radius: rpx(10);
+  overflow: hidden;
+  .day-map-view, .day-map {
+    width: 100%;
+    min-height: rpx(260);
+  }
+  .day-map-view {
+    position: relative;
+  }
+  .map-loding {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #ccc;
+  }
+  .day-map-cover {
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 1);
+    position: relative;
+  }
+  .map-line-title-list {
+    background: rgba(68, 117, 253, .05);
+    width: 100%;
+    padding: rpx(10) rpx(10) rpx(10) rpx(27);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 160px;
+
+    .map-line-title-item {
+      flex: 1 1 33.33%;
+      align-items: center;
+      .icon-txt {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: rpx(9);
+        width: rpx(17);
+        height: rpx(17);
+        line-height: 0;
+        border-radius: 50%;
+        font-size: rpx(10);
+        color: #fff;
+        background: #000;
+      }
+      .d-count {
+        margin-right: rpx(4);
+        line-height: rpx(17);
+        font-weight: 600;
+        font-size: rpx(15);
+      }
+      .d-name {
+        margin-right: rpx(4);
+        line-height: rpx(17);
+        font-weight: 400;
+        font-size: rpx(10);
+      }
+    }
+  }
+  .map-echart {
+    margin: 0 rpx(10);
+    padding: rpx(22) 0;
+    display: flex;
+
+    .map-echart-info {
+      flex: 2;
+      .map-echart-info-item {
+        line-height: rpx(32);
+        font-size: rpx(12);
+        .t1 {
+          color: #333;
+        }
+        .t2 {
+          padding-left: rpx(5);
+          color: #4475FD;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
+.map-radar {
+  position: relative;
+  flex: 3;
+}
+.map-radar, .mapRadar {
+  width: 100%;
+  height: rpx(140);
+}

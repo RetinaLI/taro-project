@@ -1,0 +1,22 @@
+@import "../../../global.scss";
+
+.car-info {
+  margin-top: rpx(10);
+  .scorechart {
+    width: rpx(158);
+    height: rpx(190);
+  }
+  .stars {
+    flex: 1;
+    .item {
+      justify-content: flex-start;
+      height: rpx(34);
+      border-bottom: none;
+      .name {
+        font-size: rpx(12);
+        color: #333;
+        width: rpx(60);
+      }
+    }
+  }
+}

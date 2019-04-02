@@ -1,0 +1,189 @@
+@import "../../../global.scss";
+$blue: #4475FD;
+.summary-clz {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+}
+.trip-day {
+  padding: 0 rpx(8);
+  .line-eee {
+    border-bottom: 1px solid #eee;
+  }
+  .day-run {
+    .day-map {
+      box-shadow: 0 rpx(2) rpx(5) 0 rgba(0, 0, 0, 0.07);
+      background: #fff;
+      border-radius: rpx(10);
+      overflow: hidden;
+      .day-map-cover {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, 1);
+      }
+      .scroll-map-title {
+        box-sizing: border-box;
+        padding: 0 rpx(10);
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .map-line-title-list {
+        display: inline-block;
+        padding: 0 rpx(10) 0 rpx(28);
+        box-sizing: border-box;
+      }
+      .map-line-title {
+        box-sizing: border-box;
+        height: rpx(75);
+        padding-top: rpx(13);
+        .map-line-title-item {
+          align-items: center;
+          margin-bottom: rpx(13);
+          text:nth-of-type(1) {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: rpx(9);
+            width: rpx(17);
+            height: rpx(17);
+            line-height: 0;
+            border-radius: 50%;
+            font-size: rpx(10);
+            color: #fff;
+            background: #000;
+          }
+          text:nth-of-type(2) {
+            margin-right: rpx(4);
+            line-height: rpx(17);
+            color: #666;
+            font-weight: 600;
+            font-size: rpx(15);
+          }
+          text:nth-of-type(3) {
+            margin-right: rpx(4);
+            line-height: rpx(17);
+            color: #999;
+            font-weight: 400;
+            font-size: rpx(10);
+          }
+        }
+      }
+      .map-echart {
+        margin: 0 rpx(10);
+        padding: rpx(22) 0;
+        & > view {
+          flex: 1;
+        }
+        .map-echart-info {
+          .map-echart-info-item {
+            line-height: rpx(32);
+            font-size: rpx(12);
+            text:nth-of-type(1) {
+              color: #333;
+            }
+            text:nth-of-type(2) {
+              padding-left: rpx(5);
+              color: #4475FD;
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.my-swiper {
+  height: rpx(70);
+  padding: rpx(10) 0 rpx(5);
+}
+
+.day-time-swiper-item {
+  justify-content: space-between;
+  box-shadow: 0 rpx(2) rpx(5) 0 rgba(0, 0, 0, 0.07);
+  padding: rpx(15) rpx(13);
+  margin: 0 rpx(5);
+  background-color: #fff;
+  border-radius: rpx(10);
+  .day-time-swiper-item-start {
+    flex: 1;
+    font-size: rpx(10);
+    .icon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: rpx(6);
+      width: rpx(20);
+      height: rpx(20);
+      border-radius: 50%;
+      color: #fff;
+      background-color: #01C878;
+    }
+    .info {
+      flex: 1;
+      overflow: hidden;
+      .txt1 {
+        display: block;
+        margin-bottom: rpx(5);
+        color: #444;
+        font-weight: 600;
+      }
+      .txt2 {
+        display: block;
+        color: #999;
+        width: rpx(100);
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+  .day-time-swiper-item-end {
+    .icon {
+      background-color: #FF4444;
+    }
+  }
+}
+
+.map-echart-time, .mapTimeRadar {
+  width: 100%;
+  height: rpx(140);
+}
+
+.day-map2 {
+  width: 100%;
+  height: calc(100vh - 580px * 1);
+}
+
+.no-part {
+  box-shadow: none;
+  margin-bottom: 0;
+}
+
+.operation {
+  flex-flow: row wrap;
+  .operation-item {
+    flex: 0 0 50%;
+    margin-bottom: rpx(10);
+    box-sizing: border-box;
+    &:nth-of-type(odd) {
+      padding-right: rpx(4.5);
+    }
+    &:nth-of-type(even) {
+      padding-left: rpx(4.5);
+    }
+  }
+
+}
+.time-map-load {
+  position: relative;
+  .map-loding {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: #ccc;
+  }
+}

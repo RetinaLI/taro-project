@@ -1,0 +1,103 @@
+{
+  "carInfoSales": "",
+  "data": {
+    "annoucementNO": "BJ4259SNFKB-AA",
+    "area": {
+      "id": 35,
+      "parent": {
+        "id": 1
+      }
+    },
+    "carModel": {
+      "id": "",
+      "name": ""
+    },
+    "carType": {
+      "carBrand": {
+        "id": 3001,
+        "name": "欧曼"
+      },
+      "energyMode": "oilDriven",
+      "id": 50160,
+      "name": "其他"
+    },
+    "city": "南昌市",
+    "company": {},
+    "companyNames": "江西锦圣汽车贸易有限公司(JXJSJH),福田康明斯(A2080)",
+    "created": "2017-06-20 10:49:42",
+    "currentDevice": {
+      "currentDeviceSim": {
+        "extSimCode": "89860617030012564475",
+        "extSimNumber": "1064631030292",
+        "operator": 1,
+        "simCode": "898602B3011590039045",
+        "simNumber": "1064838039045"
+      },
+      "did": "A64838039045",
+      "engineId": "89485824",
+      "onstate": "",
+      "province": "江西省",
+      "sn": "CB201H6110207",
+      "softwareVersion": "B.02.05"
+    },
+    "customer": {
+      "address": "江西省萍乡市安源区",
+      "birthday": "",
+      "county": "安源区",
+      "email": "",
+      "id": 65352,
+      "identify": "91360302MA35HHKG4N",
+      "legalPersonName": "",
+      "legalPersonPhone": "",
+      "name": "萍乡邦达物流有限公司",
+      "phone": "13507991198",
+      "province": "江西省"
+    },
+    "cycle": 50,
+    "cycleName": "车联网判断实销",
+    "dealerName": "",
+    "endTime": "",
+    "energyBrand": {
+      "id": 50020,
+      "name": "康明斯平台化"
+    },
+    "engineBrand": "",
+    "engineType": "ISGE5-430",
+    "framenum": "LRDS6PEB6HT013586",
+    "id": 315039,
+    "lpn": "",
+    "lpnColor": "",
+    "lpnEndTime": "",
+    "lpnSource": "",
+    "lpnStartTime": "",
+    "modified": "2018-05-26 02:34:26",
+    "new": false,
+    "openTime": "2017-06-20 10:49:42",
+    "positionNames": "",
+    "productId": "4259SMFKB-F6Z00100",
+    "productTime": "2017-06-20 07:00:59",
+    "province": "江西省",
+    "ratingLoad": "",
+    "repairCustomerName": "萍乡邦达物流有限公司",
+    "repairCustomerPhone": "13507991198",
+    "repairStationName": "南昌正和汽车维修服务有限公司",
+    "stopService": "",
+    "stopTime": "",
+    "storageTime": "2017-06-20 11:58:46",
+    "vehicleDriver": "6X4",
+    "vehicleFunction": "牵引",
+    "vehicleLevel": "",
+    "vehicleNumber": "",
+    "vehiclePlatform": "",
+    "vehicleSeries": "6系产品",
+    "vehicleWidth": "",
+    "version": 1007
+  },
+  "info": "1550645826888",
+  "list": "",
+  "mapList": [],
+  "success": true,
+  "texts": "",
+  "totalCount": 0,
+  "url": ""
+}

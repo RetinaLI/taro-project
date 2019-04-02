@@ -1,0 +1,52 @@
+{
+  "data": "",
+  "info": "",
+  "list": "",
+  "map": "",
+  "mapList": [
+    {
+      "unionId": "7900b424-9f5f-452a-99aa-0a45604a577b",
+      "created": "2018-11-28 09:26:46",
+      "companyName": "福田戴姆勒",
+      "name": "zhouweiming",
+      "fullName": "周维明",
+      "productName": "欧曼车联网平台"
+    },
+    {
+      "unionId": "16445265-8a68-4aa0-aacb-eb1b1f108467",
+      "created": "2018-12-04 08:54:20",
+      "companyName": "福田欧马可",
+      "name": "ta",
+      "fullName": "平台开发部测试专用",
+      "productName": "欧马可车联网平台"
+    },
+    {
+      "unionId": "c4334288-e84f-46a0-8010-b325dbd66f55",
+      "created": "2018-12-04 09:11:43",
+      "companyName": "福田研究院试制试验中心",
+      "name": "test007",
+      "fullName": "test",
+      "productName": "试制试验车联网平台"
+    },
+    {
+      "unionId": "40198af2-2e61-4a41-b40b-13da797e7feb",
+      "created": "2018-12-04 16:32:18",
+      "companyName": "计划与营销管理本部",
+      "name": "ta",
+      "fullName": "平台开发部测试专用",
+      "productName": "车联网价值链应用平台"
+    },
+    {
+      "unionId": "a0b7b82a-34e4-4400-8844-f4d68c8ce355",
+      "created": "2019-01-11 15:56:12",
+      "companyName": "欧辉新能源",
+      "name": "ta",
+      "fullName": "平台开发部测试专用",
+      "productName": "新能源车联网平台"
+    }
+  ],
+  "success": true,
+  "texts": "",
+  "totalCount": 0,
+  "url": ""
+}
